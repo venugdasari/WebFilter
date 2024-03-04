@@ -2,3 +2,4 @@ Webfilter
 
 
 Https://google.com
+https://gmail.com
